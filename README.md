@@ -1,11 +1,7 @@
-It's a Terrible Map Generator
+All files are not relaterd, here just to upload some random things
 
-Free to copy and reuse(Idk you would want this)
+Free to copy and use(Idk you would want this)
 
-coded in pycharm
+coded in pycharm and some "slight" help from grok or gpt
 
-used ctypes, math, pygame, sys
-
-mainly pygame and math
-
-and some "slight" help from grok
+should be all python
