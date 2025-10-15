@@ -1,12 +1,12 @@
-All files are not relaterd, here just to upload some random things
+All files are not related, just to upload some random things
 
 
-Free to copy and use(Idk you would want this)
+Free to copy and use(Idk why you would want this)
 
-But if you did pls add my name, thx \\('v')/
-
-
-coded in pycharm and some "slight" help from grok or gpt
+But if you did, pls add my name, thx \('v')/
 
 
-should be all python, with focus on pygame
+coded in PyCharm and some "slight" help from Grok or GPT (actually, I guess 30-60% is AI)
+
+
+should be all Python, with focus on pygame
